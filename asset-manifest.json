@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/helloimrizy-pages/dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/helloimrizy-pages/dashboard/static/js/main.b4c12e46.js",
+    "static/js/453.19cd30bc.chunk.js": "/helloimrizy-pages/dashboard/static/js/453.19cd30bc.chunk.js",
+    "static/media/logo.svg": "/helloimrizy-pages/dashboard/static/media/logo.f71cc62c478d5c0a82c613d13380748f.svg",
+    "index.html": "/helloimrizy-pages/dashboard/index.html",
+    "main.e6c13ad2.css.map": "/helloimrizy-pages/dashboard/static/css/main.e6c13ad2.css.map",
+    "main.b4c12e46.js.map": "/helloimrizy-pages/dashboard/static/js/main.b4c12e46.js.map",
+    "453.19cd30bc.chunk.js.map": "/helloimrizy-pages/dashboard/static/js/453.19cd30bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b4c12e46.js"
+  ]
+}
